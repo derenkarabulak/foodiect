@@ -1,0 +1,75 @@
+/* General styles for the form */
+.input-section {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.form__group {
+  margin-bottom: 20px;
+}
+
+.form__group span {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.shop__btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.shop__btn:hover {
+  background-color: var(--card-bg-02);
+}
+
+/* Styles for the nutrition facts card */
+.nutrition-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.nutr-header {
+  display: inline;
+  font-size: larger;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.nutr-values {
+  display: inline;
+  font-size: large;
+  font-weight: 400;
+}
+
+.nutrition-item {
+  margin-bottom: 10px;
+}
+
+.nutrition-item h3,
+.nutrition-item h5 {
+  margin: 0;
+}
