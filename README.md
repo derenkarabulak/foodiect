@@ -10,5 +10,5 @@ A recipe app with calorie burn estimator using machine learning and nutrition an
 ![nutrition](https://github.com/derenkarabulak/foodiect/blob/main/showcase/nutrition.gif)
 ### Calorie burning estimator. The algorithm estimates how much calorie you can burn according to the given inputs using machine learning, Python.
 ![calcalc](https://github.com/derenkarabulak/foodiect/blob/main/showcase/calcalc.gif)
-### Admin panel is only accessible with admin account. Admin can manage users from this panel.
+### Admin dashboard is only accessible with admin account. Admin can manage users from this dashboard.
 ![adminpanel](https://github.com/derenkarabulak/foodiect/blob/main/showcase/dasboard.gif)
