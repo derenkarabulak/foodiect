@@ -1,11 +1,11 @@
 # What is it?
 A recipe app with calorie burn estimator using machine learning and nutrition analysis for ingredients. Used React.js, Python, Firebase, Tailwind CSS, XGBoost algorithm, Axios, Bootstrap, Edamam API.
 # How to run?
-  -Go to the project path from your terminal__
-  -Run "cd backend"__
-  -Run "python app.py"__
-  -Go back to the project directory__
-  -Run "cd frontend"__
+  -Go to the project path from your terminal<br />
+  -Run "cd backend"<br />
+  -Run "python app.py"<br />
+  -Go back to the project directory<br />
+  -Run "cd frontend"<br />
   -Run "npm start
 
 # Visuals
